@@ -1,0 +1,5 @@
+.DS_Store
+RecordMonitor.app/
+dist/
+oldbuild/
+files/AppIcon copy.icns
